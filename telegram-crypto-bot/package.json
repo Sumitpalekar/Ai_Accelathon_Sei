@@ -1,0 +1,17 @@
+{
+  "name": "telegram-crypto-bot",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev:polling": "node src/polling.js",
+    "dev:webhook": "node src/webhook-local.js",
+    "start": "node src/polling.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "ethers": "^6.13.1",
+    "node-fetch": "^3.3.2",
+    "telegraf": "^4.16.3"
+  }
+}
