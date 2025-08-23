@@ -1,0 +1,60 @@
+
+# Node.js
+
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+
+# Build outputs
+
+dist/
+build/
+.cache/
+.tmp/
+out/
+coverage/
+
+
+# Environment files (Secrets)
+
+.env
+.env.*        # ignore all env files
+!.env.example # but keep the example template
+
+
+# Logs
+
+*.log
+logs/
+pids
+*.pid
+*.seed
+*.pid.lock
+
+
+# OS / Editor junk
+
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+*.bak
+*.tmp
+
+
+# Deployment bundles
+
+*.tgz
+*.tar.gz
+*.zip
+*.rar
+
+
+# ⚠️ Project-specific
+
+users.json   
