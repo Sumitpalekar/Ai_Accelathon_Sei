@@ -1,6 +1,6 @@
 # TUBE
 
-#### [Demo]() | [Pitchdeck](https://www.figma.com/deck/7f8ZGAWWojJxASUN6NFXAU) | [Video]()
+#### [Demo](https://t.me/seiTubebot) | [Pitchdeck](https://www.figma.com/deck/7f8ZGAWWojJxASUN6NFXAU) | [Video]()
 
 ## Overview
 
