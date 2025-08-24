@@ -1,6 +1,6 @@
 # TUBE
 
-#### [Demo]() | [Pitchdeck](https://www.figma.com/slides/7f8ZGAWWojJxASUN6NFXAU?node-id=1:848) | [Video]()
+#### [Demo]() | [Pitchdeck](https://www.figma.com/deck/7f8ZGAWWojJxASUN6NFXAU) | [Video]()
 
 ## Overview
 
