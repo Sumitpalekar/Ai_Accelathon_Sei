@@ -1,4 +1,4 @@
-// src/eliza/runElizaIntegration.js
+//runElizaIntegration.js
 import 'dotenv/config.js';
 console.log('This script is a placeholder to show how to start an Eliza runtime and register @elizaos/plugin-sei.');
 console.log('If you want full Eliza runtime, install @elizaos/core or follow the plugin README.');
