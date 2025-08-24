@@ -1,0 +1,17 @@
+{
+  "name": "sei-telegram-bot-ai-eliza",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "BOT_MODE=polling node src/index.js",
+    "start:eliza": "node src/eliza/runElizaIntegration.js"
+  },
+  "dependencies": {
+    "@elizaos/plugin-sei": "^1.0.0",
+    "axios": "^1.11.0",
+    "dotenv": "^16.6.1",
+    "ethers": "^6.15.0",
+    "node-telegram-bot-api": "^0.61.0",
+    "openai": "^4.9.0"
+  }
+}
